@@ -6,5 +6,5 @@ class Solution:
             if n in seen:
                 return True
             seen.add(n)
-
         return False
+
